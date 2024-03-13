@@ -1,0 +1,62 @@
+git init
+
+git remote add y el enlace al repositorio
+
+git branch -M main
+
+git pull enlace + main
+modificamos el doc
+
+git status
+git add .
+git commit -m “Comentario que aparecerá al lado del archivo”
+
+
+git push enlace main
+
+
+
+
+https://github.com/D4rkM3t30r/Siuu.git
+
+-------------------------------------
+
+git clone -b "main" https://github.com/LuisCoding05/PruebaExamen.git
+
+cd Tab(Nombre archivo)
+
+y trabajar desde el pull
+
+--------------------------
+
+crear una nueva rama
+git branch nombre.nueva.rama
+git checkout nombre.nueva.rama
+
+
+
+
+JAVADOC
+
+/**
+*@param explicar los parametros que tiene la funcion
+*@return hay que poner un texto explicando que debe decir que debe darnos
+*/
+
+
+Le damos a exportar como javadoc sin tocar nada y le das a finish
+
+
+
+
+git checkout “main” 
+Para moverse entre ramas
+
+git remote add origin “nombre de la rama”
+
+
+
+new 
+javaproject le pones nombre y finish
+crear package 
+click al package crear clase
